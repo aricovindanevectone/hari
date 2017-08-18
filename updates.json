@@ -13,9 +13,9 @@
   },
   "win32-x86-prod": {
     "readme": "Second release",
-    "update": "https://github.com/aricovindanevectone/hari/releases/download/v0.0.27/unified-communications-setup-0.0.27.exe",
-    "install": "https://github.com/aricovindanevectone/hari/releases/download/v0.0.27/unified-communications-setup-0.0.27.exe",
-    "version": "0.0.27"
+    "update": "https://github.com/aricovindanevectone/hari/releases/download/v0.0.28/unified-communications-setup-0.0.27.exe",
+    "install": "https://github.com/aricovindanevectone/hari/releases/download/v0.0.28/unified-communications-setup-0.0.27.exe",
+    "version": "0.0.28"
   },
   "darwin-x64-prod": {
     "readme": "Second Release",
