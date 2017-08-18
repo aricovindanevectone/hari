@@ -1,9 +1,9 @@
 {
   "linux-x64-prod": {
     "readme": "Second release",
-    "update": "https://github.com/aricovindanevectone/hari/releases/download/untagged-a94be652b9af007e7e97/unified-communications-0.0.27-i386.AppImage",
-    "install": "https://github.com/aricovindanevectone/hari/releases/download/untagged-a94be652b9af007e7e97/unified-communications-0.0.27-i386.AppImage",
-    "version": "0.0.2"
+    "update": "https://github.com/aricovindanevectone/hari/releases/download/untagged-071d865511a2583089a6/unified-communications-0.0.322-x86_64.AppImage",
+    "install": "https://github.com/aricovindanevectone/hari/releases/download/untagged-071d865511a2583089a6/unified-communications-0.0.322-x86_64.AppImage",
+    "version": "0.0.322"
   },
   "win32-x64-prod": {
     "readme": "Second release",
