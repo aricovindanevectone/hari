@@ -11,7 +11,7 @@
     "install": "https://github.com/megahertz/electron-simple-updater/releases/download/win32-x64-prod-v0.0.2/Simple.Updater.Example.Setup.0.0.2.exe",
     "version": "0.0.28"
   },
-  "win32-x86-prod": {
+  "win32-ia32-prod": {
     "readme": "Third release",
     "update": "https://github.com/aricovindanevectone/hari/releases/download/v0.0.30/unified-communications-setup-0.0.30.exe",
     "install": "https://github.com/aricovindanevectone/hari/releases/download/v0.0.29/unified-communications-setup-0.0.29.exe",
